@@ -1,6 +1,6 @@
 # Elmish.WPF Starter
 
-A tempalte for [Elmish.WPF](https://github.com/elmish/Elmish.WPF) applications.
+A template for [Elmish.WPF](https://github.com/elmish/Elmish.WPF) applications.
 
 ## Usage:
 
